@@ -77,5 +77,11 @@ class Sprite
     {
         return Box.Intersects(box1);
     }
+    
+    public bool IntersectsCut(Rectangle box1, int cutSize)
+    {
+        Rectangle box2 = new Rectangle((int)Position.X + cutSize / 2, (int) Position.Y, (int)(Width * _scale - cutSize), (int)(Height * _scale));
+        return box1.Intersects(box2);
+    }
 }
 

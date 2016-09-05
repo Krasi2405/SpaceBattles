@@ -4,9 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/C# Projects/Poker/Game1/Game1/Content/ship_2.png</File>
-    <File>D:/C# Projects/Poker/Game1/Game1/Content/invader_1.png</File>
-    <File>D:/C# Projects/Poker/Game1/Game1/Content/blast_shot_blue.png</File>
-    <File>D:/C# Projects/Poker/Game1/Game1/Content/blast_shot_red.png</File>
+    <File>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/ship_2.png</File>
+    <File>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/invader_1.png</File>
+    <File>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/blast_shot_blue.png</File>
+    <File>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/blast_shot_red.png</File>
+    <File>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/galaxy.jpg</File>
+    <File>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/Font.spritefont</File>
   </SourceFiles>
 </SourceFileCollection>

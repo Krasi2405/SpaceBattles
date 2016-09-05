@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/blast_shot_blue.png</SourceFile>
-  <SourceTime>2016-08-26T18:54:16.4825335+03:00</SourceTime>
-  <DestFile>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/bin/Windows/blast_shot_blue.xnb</DestFile>
-  <DestTime>2016-08-27T14:10:14.9598751+03:00</DestTime>
+  <SourceFile>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/galaxy.jpg</SourceFile>
+  <SourceTime>2016-09-04T12:19:31.6688542+03:00</SourceTime>
+  <DestFile>D:/C# Projects/MonoGame/SpaceInvadersClone/SpaceInvaders/Game1/Content/bin/Windows/galaxy.xnb</DestFile>
+  <DestTime>2016-09-04T12:19:32.0286908+03:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2016-03-30T09:36:08+03:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
