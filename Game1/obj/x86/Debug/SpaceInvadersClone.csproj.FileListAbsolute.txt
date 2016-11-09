@@ -62,3 +62,8 @@ D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\bin\Windows\x86\D
 D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\obj\x86\Debug\SpaceInvadersClone.csprojResolveAssemblyReference.cache
 D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\bin\Windows\x86\Debug\Content\galaxy.xnb
 D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\bin\Windows\x86\Debug\Content\Font.xnb
+D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\bin\Windows\x86\Debug\Content\shield.xnb
+D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\bin\Windows\x86\Debug\Game1.exe.manifest
+D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\bin\Windows\x86\Debug\Game1.application
+D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\obj\x86\Debug\Game1.exe.manifest
+D:\C# Projects\MonoGame\SpaceInvadersClone\SpaceInvaders\Game1\obj\x86\Debug\Game1.application

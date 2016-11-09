@@ -18,6 +18,8 @@ namespace Game1
         List<List<Invader>> invaders;
         List<Bullet> invaderBullets = new List<Bullet>();
         List<Bullet> playerBullets = new List<Bullet>();
+        List<Powerup> availablePowerups = new List<Powerup>();
+        Texture2D shield;
 
         SpriteFont font;
         Sprite backgroundImage;
@@ -92,7 +94,8 @@ namespace Game1
             Texture2D background = this.Content.Load<Texture2D>("galaxy");
             backgroundImage = new Sprite(background, new Vector2(0, 0));
             font = this.Content.Load<SpriteFont>("Font");
-            
+
+            availablePowerups.Add(new Powerup(this.Content.Load<Texture2D>("shield"),new Vector2(player.Position.X, player.Position.Y), "shield", 60 * 30));
 
             /*
             this.graphics.PreferredBackBufferWidth = this.backgroundTexture.Width;
@@ -364,6 +367,9 @@ namespace Game1
                     }
                 }
 
+                
+
+
                 restartingCounter -= 1;
             }
 
@@ -442,8 +448,7 @@ namespace Game1
                     Color.Black);
                 spriteBatch.End();
             }
-
-
+            
             
             
             base.Draw(gameTime);
